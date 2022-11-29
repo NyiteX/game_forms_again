@@ -1,0 +1,12 @@
+E:\Pictures\step\VS\NyiteX\Game_forms\bin\Debug\WindowsFormsApp9.exe.config
+E:\Pictures\step\VS\NyiteX\Game_forms\bin\Debug\WindowsFormsApp9.exe
+E:\Pictures\step\VS\NyiteX\Game_forms\bin\Debug\WindowsFormsApp9.pdb
+E:\Pictures\step\VS\NyiteX\Game_forms\obj\Debug\WindowsFormsApp9.csproj.AssemblyReference.cache
+E:\Pictures\step\VS\NyiteX\Game_forms\obj\Debug\WindowsFormsApp9.csproj.SuggestedBindingRedirects.cache
+E:\Pictures\step\VS\NyiteX\Game_forms\obj\Debug\WindowsFormsApp9.Form1.resources
+E:\Pictures\step\VS\NyiteX\Game_forms\obj\Debug\WindowsFormsApp9.Form2.resources
+E:\Pictures\step\VS\NyiteX\Game_forms\obj\Debug\WindowsFormsApp9.Properties.Resources.resources
+E:\Pictures\step\VS\NyiteX\Game_forms\obj\Debug\WindowsFormsApp9.csproj.GenerateResource.cache
+E:\Pictures\step\VS\NyiteX\Game_forms\obj\Debug\WindowsFormsApp9.csproj.CoreCompileInputs.cache
+E:\Pictures\step\VS\NyiteX\Game_forms\obj\Debug\WindowsFormsApp9.exe
+E:\Pictures\step\VS\NyiteX\Game_forms\obj\Debug\WindowsFormsApp9.pdb
